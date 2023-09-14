@@ -1,3 +1,3 @@
-# g_ndon_hack
- 
-программа использовалась в 2020 и 2021 годах. в начале 2022 программы была частично пофикшена. вы найдете обходной путь в моем профиле.
+# not working
+
+use https://github.com/ma3rxofficial/LichessAccountHacking
